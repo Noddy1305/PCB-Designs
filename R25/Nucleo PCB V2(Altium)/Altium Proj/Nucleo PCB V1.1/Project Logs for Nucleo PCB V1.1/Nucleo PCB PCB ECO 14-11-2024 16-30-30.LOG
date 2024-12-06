@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=P9-3
+Removed Pin From Net: NetName=GND Pin=P9-4
+Removed Pin From Net: NetName=CS4 Pin=U31-10
+Removed Pin From Net: NetName=CS3 Pin=U31-11
+Removed Pin From Net: NetName=GND Pin=U33-5
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=P9
+Added Pin To Net: NetName=+5V Pin=U30-5
+Added Pin To Net: NetName=PUL5' Pin=U31-1
+Added Pin To Net: NetName=DIR5' Pin=U31-2
+Added Pin To Net: NetName=+5V Pin=U31-5
+Added Pin To Net: NetName=DIR5 Pin=U31-10
+Added Pin To Net: NetName=PUL5 Pin=U31-11
+Added Pin To Net: NetName=+5V Pin=U32-5
+Added Pin To Net: NetName=+5V Pin=U33-5
+Added Pin To Net: NetName=GND Pin=U33-6

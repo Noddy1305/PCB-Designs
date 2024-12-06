@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=P?-3
+Removed Pin From Net: NetName=GND Pin=U1-CN3_1
+Removed Pin From Net: NetName=GND Pin=U1-CN3_2
+Removed Pin From Net: NetName=GND Pin=U1-CN4_1
+Removed Pin From Net: NetName=GND Pin=U1-CN4_2
+Removed Pin From Net: NetName=DIR1 Pin=U1-CN11_21
+Removed Pin From Net: NetName=DIR3 Pin=U1-CN11_35
+Removed Pin From Net: NetName=DIR2 Pin=U1-CN11_37
+Removed Pin From Net: NetName=PUL1 Pin=U1-CN11_38
+Removed Pin From Net: NetName=CS3 Pin=U1-CN11_48
+Removed Pin From Net: NetName=PUL2 Pin=U1-CN12_24
+Removed Pin From Net: NetName=GLA Pin=U1-CN12_27
+Removed Pin From Net: NetName=PUL3 Pin=U1-CN12_62
+Removed Pin From Net: NetName=GND Pin=U1-CN15_1
+Removed Pin From Net: NetName=GND Pin=U1-CN15_2
+Removed Pin From Net: NetName=GND Pin=U1-CN16_1
+Removed Pin From Net: NetName=GND Pin=U1-CN16_2
+Added Component: Designator=P4(691313510004)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "22.32mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PUL1 Pin=U1-CN11_11
+Added Pin To Net: NetName=DIR2 Pin=U1-CN11_21
+Added Pin To Net: NetName=PUL2 Pin=U1-CN11_38
+Added Pin To Net: NetName=DIR5 Pin=U1-CN11_63
+Added Pin To Net: NetName=PUL4 Pin=U1-CN11_65
+Added Pin To Net: NetName=CS3 Pin=U1-CN12_11
+Added Pin To Net: NetName=DIR4 Pin=U1-CN12_23
+Added Pin To Net: NetName=PUL3 Pin=U1-CN12_24
+Added Pin To Net: NetName=CS4 Pin=U1-CN12_27
+Added Pin To Net: NetName=GLA Pin=U1-CN12_41
+Added Pin To Net: NetName=PUL5 Pin=U1-CN12_48
+Added Pin To Net: NetName=DIR1 Pin=U1-CN12_55
+Added Pin To Net: NetName=DIR3 Pin=U1-CN12_61
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P4 691313510004
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500104
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500104
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103

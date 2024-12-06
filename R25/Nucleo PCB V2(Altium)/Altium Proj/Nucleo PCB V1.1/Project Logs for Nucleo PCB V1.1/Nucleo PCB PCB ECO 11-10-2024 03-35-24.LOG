@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change component parameters: Designator = "U" ("U"); Footprint = "DIP794W45P254L1969H508Q14"; UniqueID = "\NLIKCECC" ("\NLIKCECC")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=279498"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow_Purchase_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/SN74HC04N/Texas%20Instruments/view-part/279498/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=279498"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=279498"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74HC04N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74HC04N/Texas%20Instruments/view-part/279498/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=279498"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J2 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J3 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J4 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J5 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J6 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J7 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J8 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J9 PPTC061LFBN-RC
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J10 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J11 629104151021

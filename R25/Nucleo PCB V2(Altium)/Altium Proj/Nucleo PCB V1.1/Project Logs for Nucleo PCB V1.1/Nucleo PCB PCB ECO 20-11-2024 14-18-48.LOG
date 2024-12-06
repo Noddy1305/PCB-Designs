@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12V Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=D3
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=Q2
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=R9
+Added Pin To Net: NetName=+12V Pin=F1-2
+Added Pin To Net: NetName=+12V Pin=F1-2

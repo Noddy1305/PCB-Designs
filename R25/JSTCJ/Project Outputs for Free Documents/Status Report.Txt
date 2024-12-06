@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [JSTCJ.PcbDoc]
+   Generated File[JSTCJ-Plated.TXT]
+   Generated File[JSTCJ-RectHoles-Plated.TXT]
+   Generated File[JSTCJ.LDP]
+   Generated File[JSTCJ.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:44:53 On 18-05-2024

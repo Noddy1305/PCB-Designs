@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+5V Pin=J15-4
+Added Pin To Net: NetName=+5V Pin=J16-4
+Added Pin To Net: NetName=+5V Pin=J17-4
+Added Pin To Net: NetName=+5V Pin=J18-4
+Added Pin To Net: NetName=+5V Pin=J19-4
+Added Pin To Net: NetName=+5V Pin=J20-4
+Added Pin To Net: NetName=+5V Pin=J21-4
+Added Pin To Net: NetName=+5V Pin=J22-4
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C3 VY1472M63Y5UQ6TV0
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J25 1759020

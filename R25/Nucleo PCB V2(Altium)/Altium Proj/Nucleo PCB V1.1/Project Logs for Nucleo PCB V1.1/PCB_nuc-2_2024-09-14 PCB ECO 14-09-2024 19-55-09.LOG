@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=NUCLEO-H753ZI
+Change component parameters: Designator = "U1" ("U1"); Footprint = "NUCLEO-H753ZI"; UniqueID = "\ggeedfa729b1483d7c9" ("ggeedfa729b1483d7c9")
+Change component parameters (AddParameter): Name = "Contributor"; Value = "billoue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.st.com/en/evaluation-tools/nucleo-h753zi.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "NUCLEO-H753ZI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "NUCLEO-H753ZI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "511-NUCLEO-H753ZI"; VariantName = "[No Variations]"
+Added Class: Name=Sheet_1_2024-09-14

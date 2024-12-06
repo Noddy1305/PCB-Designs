@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=+5V Pin=J?-4
+Added Pin To Net: NetName=SS5 Pin=J?-1
+Added Pin To Net: NetName=SS5 Pin=U1-CN11_32
+Added Net: Name=SS5
+Added Pin To Net: NetName=SS6 Pin=J?-2
+Added Pin To Net: NetName=SS6 Pin=U1-CN12_11
+Added Net: Name=SS6
+Added Pin To Net: NetName=SS7 Pin=J?-1
+Added Pin To Net: NetName=SS7 Pin=U1-CN12_13
+Added Net: Name=SS7
+Added Pin To Net: NetName=SS8 Pin=J?-2
+Added Pin To Net: NetName=SS8 Pin=U1-CN12_15
+Added Net: Name=SS8
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C? VY1472M63Y5UQ6TV0
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C? VY1472M63Y5UQ6TV0
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 530480610
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B4B-XH-A(LF)(SN)

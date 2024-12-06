@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Sensor5V Pin=J?-5
+Added Pin To Net: NetName=Sensor5V Pin=J?-4
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? B5B-XH-A(LF)(SN)

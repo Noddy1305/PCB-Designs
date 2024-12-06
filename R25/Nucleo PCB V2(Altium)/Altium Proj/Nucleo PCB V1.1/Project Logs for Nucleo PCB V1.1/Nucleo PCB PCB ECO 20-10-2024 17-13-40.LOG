@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+5V Pin=J?-4
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Change Component Designator: OldDesignator=J? NewDesignator=J17
+Change Component Designator: OldDesignator=J? NewDesignator=J18
+Change Component Designator: OldDesignator=J? NewDesignator=J19
+Change Component Designator: OldDesignator=J? NewDesignator=J20
+Change Component Designator: OldDesignator=J? NewDesignator=J21
+Change Component Designator: OldDesignator=J? NewDesignator=J22
+Change Component Designator: OldDesignator=J? NewDesignator=J23
+Change Component Designator: OldDesignator=J? NewDesignator=J24
+Change Component Designator: OldDesignator=J? NewDesignator=J25
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C2 EEUFM1E102
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C4 VY1472M63Y5UQ6TV0
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J15 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J16 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J17 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J18 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J19 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J20 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J21 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J22 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J23 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J24 530480610

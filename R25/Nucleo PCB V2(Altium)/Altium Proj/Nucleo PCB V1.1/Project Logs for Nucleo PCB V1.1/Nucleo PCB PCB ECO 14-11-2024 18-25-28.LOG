@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SDA3 Pin=J2-1
+Removed Pin From Net: NetName=SCL3 Pin=J2-2
+Removed Pin From Net: NetName=NGND Pin=J2-3
+Removed Pin From Net: NetName=Sensor5V Pin=J2-4
+Added Pin To Net: NetName=Sensor5V Pin=J2-1
+Added Pin To Net: NetName=NGND Pin=J2-2
+Added Pin To Net: NetName=SDA3 Pin=J2-3
+Added Pin To Net: NetName=SCL3 Pin=J2-4
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J19 B4B-XH-A(LF)(SN)

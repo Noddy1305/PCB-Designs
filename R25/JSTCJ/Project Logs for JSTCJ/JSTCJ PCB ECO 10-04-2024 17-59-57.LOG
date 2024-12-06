@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=5v-11-2
+Added Pin To Net: NetName=VCC Pin=5v-12-1
+Added Pin To Net: NetName=GND Pin=5v-12-2
+Added Member To Class: ClassName=JSTCJ Member=Component 5v-5 S2B-ZR(LF)(SN)
+Added Member To Class: ClassName=JSTCJ Member=Component 5v-6 S2B-ZR(LF)(SN)
+Added Member To Class: ClassName=JSTCJ Member=Component 5v-9 S2B-ZR(LF)(SN)
+Added Member To Class: ClassName=JSTCJ Member=Component 5v-10 S2B-ZR(LF)(SN)
+Added Member To Class: ClassName=JSTCJ Member=Component LED 151031YS05900

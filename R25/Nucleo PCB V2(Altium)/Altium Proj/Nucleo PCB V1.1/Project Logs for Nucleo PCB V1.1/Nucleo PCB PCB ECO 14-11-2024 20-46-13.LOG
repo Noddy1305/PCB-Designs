@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=SDA1 Pin=J15-1
+Removed Pin From Net: NetName=SCL1 Pin=J15-2
+Removed Pin From Net: NetName=NGND Pin=J15-3
+Removed Pin From Net: NetName=Sensor5V Pin=J15-4
+Removed Pin From Net: NetName=SDA1 Pin=J16-1
+Removed Pin From Net: NetName=SCL1 Pin=J16-2
+Removed Pin From Net: NetName=NGND Pin=J16-3
+Removed Pin From Net: NetName=Sensor5V Pin=J16-4
+Removed Pin From Net: NetName=SDA2 Pin=J17-1
+Removed Pin From Net: NetName=SCL2 Pin=J17-2
+Removed Pin From Net: NetName=NGND Pin=J17-3
+Removed Pin From Net: NetName=Sensor5V Pin=J17-4
+Removed Pin From Net: NetName=SDA2 Pin=J18-1
+Removed Pin From Net: NetName=SCL2 Pin=J18-2
+Removed Pin From Net: NetName=NGND Pin=J18-3
+Removed Pin From Net: NetName=Sensor5V Pin=J18-4
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J15
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J16
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J17
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J18
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Component: Designator=J5(JST_B5B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B5B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(JST_B5B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B5B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(JST_B5B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B5B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B5B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA2 Pin=J5-2
+Added Pin To Net: NetName=SCL2 Pin=J5-3
+Added Pin To Net: NetName=NGND Pin=J5-4
+Added Pin To Net: NetName=Sensor5V Pin=J5-5
+Added Pin To Net: NetName=SDA1 Pin=J6-2
+Added Pin To Net: NetName=SCL1 Pin=J6-3
+Added Pin To Net: NetName=NGND Pin=J6-4
+Added Pin To Net: NetName=Sensor5V Pin=J6-5
+Added Pin To Net: NetName=SDA1 Pin=J7-2
+Added Pin To Net: NetName=SCL1 Pin=J7-3
+Added Pin To Net: NetName=NGND Pin=J7-4
+Added Pin To Net: NetName=Sensor5V Pin=J7-5
+Added Pin To Net: NetName=INT1 Pin=J4-1
+Added Pin To Net: NetName=INT1 Pin=J5-1
+Added Pin To Net: NetName=INT1 Pin=J6-1
+Added Pin To Net: NetName=INT1 Pin=J7-1
+Added Net: Name=INT1
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J5 B5B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J6 B5B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J7 B5B-XH-A(LF)(SN)

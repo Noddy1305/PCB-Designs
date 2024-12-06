@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5V Pin=J?-1
+Change Component Footprint: Designator=J? Old Footprint=FP-SM06B-GHS-TB_LF_SN-MFG New Footprint=AMPHENOL_10114829-10106LF
+Change Component Comment : Designator=J? Old Comment=SM06B-GHS-TB(LF)(SN) New Comment=10114829-10106LF
+Change Managed Component Library Link : Designator=J? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=261A1AC3-6C93-4FE5-9404-7D939913C520 New ItemGUID= Old RevisionGUID=F68CA069-44EF-4C8A-8676-EA498F3169C9 New RevisionGUID=
+Change component parameters: Designator = "J?" ("J?"); Footprint = "FP-SM06B-GHS-TB_LF_SN-MFG"; UniqueID = "\DOQJQIUD" ("\DOQJQIUD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10114829-10106LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10114829-10106LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/10114829-10106LF/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10114829-10106LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J?-01
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 10114829-10106LF

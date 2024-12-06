@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=SIG1' Pin=U34-1
+Added Pin To Net: NetName=SIG2' Pin=U34-2
+Added Pin To Net: NetName=SIG3' Pin=U34-3
+Added Pin To Net: NetName=SIG4' Pin=U34-4
+Added Pin To Net: NetName=+5V Pin=U34-5
+Added Pin To Net: NetName=GND Pin=U34-6
+Added Pin To Net: NetName=NGND Pin=U34-7
+Added Pin To Net: NetName=SIG4 Pin=U34-8
+Added Pin To Net: NetName=SIG3 Pin=U34-9
+Added Pin To Net: NetName=SIG2 Pin=U34-10
+Added Pin To Net: NetName=SIG1 Pin=U34-11
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component U34

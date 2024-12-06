@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+5V Pin=J15-4
+Removed Pin From Net: NetName=+5V Pin=J16-4
+Removed Pin From Net: NetName=+5V Pin=J17-4
+Removed Pin From Net: NetName=+5V Pin=J19-4
+Removed Pin From Net: NetName=+5V Pin=J21-4
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J21
+Added Pin To Net: NetName=SDA1 Pin=J15-1
+Added Pin To Net: NetName=SCL1 Pin=J15-2
+Added Pin To Net: NetName=NGND Pin=J15-3
+Added Pin To Net: NetName=Sensor5V Pin=J15-4
+Added Pin To Net: NetName=SDA1 Pin=J16-1
+Added Pin To Net: NetName=SCL1 Pin=J16-2
+Added Pin To Net: NetName=NGND Pin=J16-3
+Added Pin To Net: NetName=Sensor5V Pin=J16-4
+Added Pin To Net: NetName=NGND Pin=J17-3
+Added Pin To Net: NetName=Sensor5V Pin=J17-4
+Added Pin To Net: NetName=NGND Pin=J19-3
+Added Pin To Net: NetName=Sensor5V Pin=J19-4
+Added Pin To Net: NetName=SCL2 Pin=J17-2
+Added Pin To Net: NetName=SCL2 Pin=J19-2
+Added Net: Name=SCL2
+Added Pin To Net: NetName=SDA2 Pin=J17-1
+Added Pin To Net: NetName=SDA2 Pin=J19-1
+Added Net: Name=SDA2

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5V Pin=C1-1
+Removed Pin From Net: NetName=Sensor5V Pin=U34-5
+Removed Pin From Net: NetName=NGND Pin=U34-6
+Removed Pin From Net: NetName=GND Pin=U34-7
+Removed Pin From Net: NetName=SBUSIN Pin=U34-11
+Removed Pin From Net: NetName=+5V Pin=U-14
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=U34
+Added Pin To Net: NetName=Sensor5V Pin=C1-1
+Added Pin To Net: NetName=Sensor5V Pin=C4-1
+Added Pin To Net: NetName=Sensor5V Pin=J24-1
+Added Pin To Net: NetName=SBUSIN Pin=U-1
+Added Pin To Net: NetName=Sensor5V Pin=U-14
+Change Net Name : Old Net Name=SBUSOUT'' New Net Name=SBUSOUT

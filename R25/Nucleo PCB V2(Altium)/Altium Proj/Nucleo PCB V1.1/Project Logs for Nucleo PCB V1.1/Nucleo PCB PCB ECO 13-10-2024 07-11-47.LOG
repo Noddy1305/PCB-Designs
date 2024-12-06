@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=GRX Pin=J?-5
+Removed Pin From Net: NetName=+5V Pin=J?-6
+Change Component Footprint: Designator=J? Old Footprint=MOLEX_530470310 New Footprint=MOLEX_530480410
+Change Component Comment : Designator=J? Old Comment=530470310 New Comment=530480410
+Change component parameters: Designator = "J?" ("J?"); Footprint = "MOLEX_530470310"; UniqueID = "\QJYVLODJ" ("\QJYVLODJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "530480410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=GRX Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 292303-1
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 530480410
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691313510004

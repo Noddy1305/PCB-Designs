@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5V Pin=P4-1
+Removed Pin From Net: NetName=RX Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-4
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=P4
+Added Component: Designator=J?(MOLEX_530480610)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "530480610"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=SS3 Pin=J11-1
+Added Net: Name=SS3
+Added Pin To Net: NetName=SS4 Pin=J11-2
+Added Net: Name=SS4
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 530480610

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V Pin=C1-2
+Removed Pin From Net: NetName=+5V Pin=C3-2
+Removed Pin From Net: NetName=+5V Pin=C4-2
+Removed Pin From Net: NetName=+5V Pin=J10-2
+Removed Pin From Net: NetName=+5V Pin=J12-1
+Removed Pin From Net: NetName=+5V Pin=J13-1
+Removed Pin From Net: NetName=+5V Pin=J24-1
+Removed Pin From Net: NetName=+5V Pin=U-14
+Added Pin To Net: NetName=GND Pin=J39-2
+Added Pin To Net: NetName=5V' Pin=C1-2
+Added Pin To Net: NetName=5V' Pin=C3-2
+Added Pin To Net: NetName=5V' Pin=C4-2
+Added Pin To Net: NetName=5V' Pin=J10-2
+Added Pin To Net: NetName=5V' Pin=J12-1
+Added Pin To Net: NetName=5V' Pin=J13-1
+Added Pin To Net: NetName=5V' Pin=J24-1
+Added Pin To Net: NetName=5V' Pin=J39-1
+Added Pin To Net: NetName=5V' Pin=U-14
+Added Net: Name=5V'
+Added Rule: Name=Schematic Supply Nets_2

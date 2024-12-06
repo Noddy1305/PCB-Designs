@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+5V Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=PUL1 Pin=U1-CN11_11
+Removed Pin From Net: NetName=CS4 Pin=U1-CN12_27
+Removed Pin From Net: NetName=+5V Pin=U30-5
+Removed Pin From Net: NetName=+5V Pin=U31-5
+Removed Pin From Net: NetName=+5V Pin=U32-5
+Removed Pin From Net: NetName=+5V Pin=U33-5
+Removed Pin From Net: NetName=SBUSIN Pin=U34-11
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=D2
+Added Component: Designator=C?(FP-RAD-TH-D_12_5_0_5-L_20-MFG)
+Added Component: Designator=C?(FP-RAD-TH-D_12_5_0_5-L_20-MFG)
+Added Component: Designator=F?(FP-3568-MFG)
+Added Component: Designator=F?(FP-3568-MFG)
+Added Component: Designator=J?(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "XT60-M.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=279498"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Purchase_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/SN74HC04N/Texas%20Instruments/view-part/279498/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=279498"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=279498"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74HC04N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74HC04N/Texas%20Instruments/view-part/279498/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=279498"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=GND Pin=J?-N
+Added Pin To Net: NetName=PUL1 Pin=U1-CN12_62
+Added Pin To Net: NetName=Sensor5V Pin=U34-5
+Added Pin To Net: NetName=SBUSIN Pin=U-1
+Added Pin To Net: NetName=+5V Pin=U-14
+Added Pin To Net: NetName=+12V Pin=J?-P
+Added Pin To Net: NetName=+12V Pin=U30-5
+Added Pin To Net: NetName=+12V Pin=U31-5
+Added Pin To Net: NetName=+12V Pin=U32-5
+Added Pin To Net: NetName=+12V Pin=U33-5
+Added Net: Name=+12V
+Added Pin To Net: NetName=SBUSOUT Pin=U-2
+Added Pin To Net: NetName=SBUSOUT Pin=U34-11
+Added Net: Name=SBUSOUT
+Add Class Member: Failed to add class member : Component C? EEUFM1E102
+Add Class Member: Failed to add class member : Component C? EEUFM1E102
+Add Class Member: Failed to add class member : Component F? 3568
+Add Class Member: Failed to add class member : Component F? 3568
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? XT60-M
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component U SN74HC04N
+Added Rule: Name=Schematic Supply Nets_4

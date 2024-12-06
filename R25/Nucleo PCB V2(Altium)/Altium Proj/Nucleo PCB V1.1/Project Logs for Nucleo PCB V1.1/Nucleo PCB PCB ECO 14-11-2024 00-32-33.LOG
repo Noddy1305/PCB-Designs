@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=PUL4 Pin=P?-1
+Removed Pin From Net: NetName=PUL5 Pin=P?-1
+Removed Pin From Net: NetName=DIR4 Pin=P?-2
+Removed Pin From Net: NetName=DIR5 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=DIR5 Pin=U30-8
+Added Pin To Net: NetName=PUL5 Pin=U30-9
+Added Pin To Net: NetName=DIR4 Pin=U30-10
+Added Pin To Net: NetName=PUL4 Pin=U30-11
+Added Pin To Net: NetName=DIR4' Pin=P?-2
+Added Pin To Net: NetName=DIR4' Pin=U30-2
+Added Net: Name=DIR4'
+Added Pin To Net: NetName=DIR5' Pin=P?-2
+Added Pin To Net: NetName=DIR5' Pin=U30-4
+Added Net: Name=DIR5'
+Added Pin To Net: NetName=PUL4' Pin=P?-1
+Added Pin To Net: NetName=PUL4' Pin=U30-1
+Added Net: Name=PUL4'
+Added Pin To Net: NetName=PUL5' Pin=P?-1
+Added Pin To Net: NetName=PUL5' Pin=U30-3
+Added Net: Name=PUL5'
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500104
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500104
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500104
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691311500103

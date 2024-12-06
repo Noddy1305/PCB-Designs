@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GRX Pin=J?-5
+Added Net: Name=GRX
+Added Pin To Net: NetName=GTX Pin=J?-4
+Added Net: Name=GTX
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 292303-1
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 530480610
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? 1759020
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P? 691313510004

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=Sensor5V Pin=J2-1
+Removed Pin From Net: NetName=NGND Pin=J2-2
+Removed Pin From Net: NetName=NGND Pin=J19-3
+Removed Pin From Net: NetName=Sensor5V Pin=J19-4
+Removed Pin From Net: NetName=Sensor3V3 Pin=R2-1
+Removed Pin From Net: NetName=Sensor3V3 Pin=R3-2
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J2
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J19
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=R2
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=R3
+Added Component: Designator=P14(691311500104)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917749"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "22.32mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA2 Pin=P14-1
+Added Pin To Net: NetName=SCL2 Pin=P14-2
+Added Pin To Net: NetName=Sensor5V Pin=P14-3
+Added Pin To Net: NetName=NGND Pin=P14-4
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component P14 691311500104

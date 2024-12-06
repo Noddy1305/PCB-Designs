@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Nucleo PCB.PcbDoc]
+   Generated File[Nucleo PCB-Plated.TXT]
+   Generated File[Nucleo PCB-RectHoles-Plated.TXT]
+   Generated File[Nucleo PCB.LDP]
+   Generated File[Nucleo PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:58:28 On 23-11-2024

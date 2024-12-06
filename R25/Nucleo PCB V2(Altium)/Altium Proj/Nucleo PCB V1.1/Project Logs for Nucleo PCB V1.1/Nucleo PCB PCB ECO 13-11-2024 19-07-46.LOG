@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=YAW Pin=J3-1
+Removed Pin From Net: NetName=+5V Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J3

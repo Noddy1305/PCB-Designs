@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Nucleo PCB\Altium Proj\Nucleo PCB V1.1\Nucleo PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=nucleo pcb-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=nucleo pcb-rectholes-plated.txt|DrillLayers=gtl,gbl

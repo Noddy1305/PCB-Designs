@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CS4 Pin=U1-CN11_3
+Added Pin To Net: NetName=CS3 Pin=U1-CN11_48
+Added Pin To Net: NetName=SS4 Pin=U1-CN11_50
+Added Pin To Net: NetName=SS3 Pin=U1-CN11_62
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C? VY1472M63Y5UQ6TV0
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C? VY1472M63Y5UQ6TV0

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=5V' Pin=C1-2
+Removed Pin From Net: NetName=SBUSIN Pin=U-1
+Removed Pin From Net: NetName=GND Pin=U-7
+Removed Pin From Net: NetName=5V' Pin=U-14
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=C1
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=U
+Added Pin To Net: NetName=SBUSIN Pin=U34-11

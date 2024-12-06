@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Sensor3V3 Pin=R5-1
+Removed Pin From Net: NetName=Sensor5V Pin=U1-CN11_18
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=R5
+Added Pin To Net: NetName=NGND Pin=J36-2
+Added Pin To Net: NetName=Sensor3V3 Pin=U1-CN8_7
+Added Pin To Net: NetName=Sensor5V Pin=U1-CN8_9

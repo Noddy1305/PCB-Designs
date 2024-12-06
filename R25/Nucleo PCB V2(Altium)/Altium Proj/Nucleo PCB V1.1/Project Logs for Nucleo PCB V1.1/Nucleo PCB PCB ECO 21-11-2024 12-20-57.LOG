@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J8-N
+Removed Pin From Net: NetName=NetF1_1 Pin=J8-P
+Removed Member From Class: ClassName=Nucleo PCB V1.1 Member=J8
+Change Component Designator: OldDesignator=XT? NewDesignator=XT1
+Added Component: Designator=XT2(AMASS_XT60PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "XT60PW-F.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XT1-1
+Added Pin To Net: NetName=GND Pin=XT1-S1
+Added Pin To Net: NetName=GND Pin=XT1-S2
+Added Pin To Net: NetName=GND Pin=XT2-1
+Added Pin To Net: NetName=NetF1_1 Pin=XT2-2
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=XT1-2
+Added Net: Name=NetF2_1
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component XT2 XT60PW-F

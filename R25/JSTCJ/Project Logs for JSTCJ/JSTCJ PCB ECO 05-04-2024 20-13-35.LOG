@@ -1,0 +1,12 @@
+Added Component: Designator=R?(RESAD1081W64L635D269)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RNC55J1001FPRSL/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RNC55J1001FPRSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RNC55J1001FPRSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "erc55 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RNC55J1001FPRSL/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RNC55J1001FPRSL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=JSTCJ Member=Component R? RNC55J1001FPRSL

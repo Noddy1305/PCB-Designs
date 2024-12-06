@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\JSTCJ\JSTCJ.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=jstcj-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=jstcj-rectholes-plated.txt|DrillLayers=gtl,gbl

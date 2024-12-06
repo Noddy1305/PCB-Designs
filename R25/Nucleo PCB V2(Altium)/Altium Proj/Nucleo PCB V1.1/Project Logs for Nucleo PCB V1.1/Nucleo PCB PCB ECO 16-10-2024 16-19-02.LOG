@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RX Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=TX Pin=J?-3
+Added Net: Name=TX

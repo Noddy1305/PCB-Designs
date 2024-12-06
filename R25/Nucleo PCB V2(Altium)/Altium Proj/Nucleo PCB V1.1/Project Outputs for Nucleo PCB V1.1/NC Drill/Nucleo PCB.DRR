@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Nucleo PCB.PcbDoc   23-11-2024  22:50:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Nucleo PCB.TXT
+ASCII RectHoles File : Nucleo PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.31mm (12mil)                                            Round             31        PTH        422.21mm (16.62inch)
+T2      0.5mm (20mil)                                             Round             12        PTH        35.37mm (1.39inch)
+T3      0.6mm (24mil)                                             Rectangle         4         PTH        293.37mm (11.55inch)
+T4      0.711mm (28mil)                                           Round             4         PTH        99.73mm (3.93inch)
+T5      0.75mm (30mil)                                            Round             12        PTH        257.99mm (10.16inch)
+T6      0.77mm (30mil)                                            Round             14        PTH        38.42mm (1.51inch)
+T7      0.8mm (31mil)                                             Round             6         PTH        277.54mm (10.93inch)
+T8      1mm (39mil)                                               Round             274       PTH        1196.58mm (47.11inch)
+T9      1.016mm (40mil)                                           Round             60        PTH        418.79mm (16.49inch)
+T10     1.07mm (42mil)                                            Round             6         PTH        12.70mm (0.50inch)
+T11     1.6mm (63mil)                                             Round             45        PTH        813.83mm (32.04inch)
+T12     2.9mm (114mil)                                            Round             4         PTH        138.14mm (5.44inch)
+T13     3.5mm (138mil)                                            Round             4         PTH        145.73mm (5.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              476
+
+Total Processing Time (hh:mm:ss) : 00:00:00

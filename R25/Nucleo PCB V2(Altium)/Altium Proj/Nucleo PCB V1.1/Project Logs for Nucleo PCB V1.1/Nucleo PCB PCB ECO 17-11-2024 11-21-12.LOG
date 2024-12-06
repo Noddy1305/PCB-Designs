@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SBUSOUT' Pin=U1-CN12_19
+Removed Pin From Net: NetName=SBUSIN Pin=U-1
+Removed Pin From Net: NetName=SBUSOUT Pin=U-2
+Added Pin To Net: NetName=SBUSOUT' Pin=U-1
+Added Pin To Net: NetName=SBUSOUT'' Pin=U-2
+Added Pin To Net: NetName=SBUSOUT'' Pin=U1-CN12_19
+Added Net: Name=SBUSOUT''
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component C? EEUFM1E102
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component F? 3568

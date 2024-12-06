@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=DIR3 Pin=U1-CN11_23
+Removed Pin From Net: NetName=PUL1 Pin=U1-CN11_46
+Removed Pin From Net: NetName=DIR1 Pin=U1-CN11_47
+Removed Pin From Net: NetName=PUL2 Pin=U1-CN11_48
+Removed Pin From Net: NetName=DIR2 Pin=U1-CN11_50
+Removed Pin From Net: NetName=PUL3 Pin=U1-CN11_62
+Removed Pin From Net: NetName=ROLL Pin=U1-CN12_28
+Added Component: Designator=J?(FP-SM06B-GHS-TB_LF_SN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Outer Shroud Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIR1 Pin=U1-CN11_21
+Added Pin To Net: NetName=DIR3 Pin=U1-CN11_35
+Added Pin To Net: NetName=DIR2 Pin=U1-CN11_37
+Added Pin To Net: NetName=PUL1 Pin=U1-CN11_38
+Added Pin To Net: NetName=PUL2 Pin=U1-CN12_24
+Added Pin To Net: NetName=ROLL Pin=U1-CN12_41
+Added Pin To Net: NetName=PUL3 Pin=U1-CN12_62
+Added Pin To Net: NetName=GRIPPER Pin=P?-1
+Added Pin To Net: NetName=GRIPPER Pin=U1-CN12_43
+Added Net: Name=GRIPPER
+Added Member To Class: ClassName=Nucleo PCB V1.1 Member=Component J? SM06B-GHS-TB(LF)(SN)
